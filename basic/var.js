@@ -4,6 +4,7 @@ let age=19
 city="khambhat"
 let collg="GEC MODASA"
 let course="IT"
+let marks;
 
 /* roll_no=12334 */
 age=21
